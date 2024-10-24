@@ -140,7 +140,8 @@ This category's projected growth suggests increasing healthcare costs or higher 
 #### Food (1.92% Increase):
 
 The food category shows a significant rise, indicating potential inflationary pressure in the cost of groceries. This could stem from supply chain disruptions, increased production costs, or shifts in global food markets. Rising food prices may contribute to overall inflation.
-Recreation & Education (1.4% Increase):
+
+#### Recreation & Education (1.4% Increase):
 
 The rise in recreation and education costs points to increased prices in leisure activities and educational services. This might reflect higher costs for entertainment, cultural events, or educational materials.
 
